@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6257285d9b8a14EA7C915Eb81B06B843b33E9b47",
+  "SCAN_LINK": "https://polygonscan.com/token/0x6257285d9b8a14EA7C915Eb81B06B843b33E9b47",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Monster Freak Club",
+  "SYMBOL": "MFC",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 1500000000000000000,
+  "DISPLAY_COST": 1.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/monsterfreak",
+  "SHOW_BACKGROUND": true
+}
